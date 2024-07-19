@@ -3,5 +3,5 @@
 About Project : design digikala website for second time with html css js bootstrap.
 </p>
 <p align="center" style="margin-top:10px;">
-Preview : <a href="https://aliakbarnazemi.github.io/Digikala-2" target="_blank">Demo</a>
+Preview : <a href="https://aliakbarnazemi.github.io/Digikala-2" target="_blank" style="text-decoration:none;">Demo</a>
 </p>
