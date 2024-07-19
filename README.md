@@ -1,3 +1,6 @@
-# Digikala-2
-desc : design digikala website for second time with html css js bootstrap.
-Preview : <a href="https://aliakbarnazemi.github.io/Digikala-2">Demo</a>
+<h3 align="center">Digikala-2</h3>
+<p align="center" style="margin-top:10px;">
+About Project : design digikala website for second time with html css js bootstrap.
+</p>
+<br>
+Preview : <a href="https://aliakbarnazemi.github.io/Digikala-2" target="_blank">Demo</a>
